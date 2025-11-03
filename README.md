@@ -28,7 +28,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-arjanar-black?style=flat&logo=github)](https://github.com/arearjane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arjanayathajemahmuidhaskeh/$0)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](cane_hoard_4k@icloud.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:cane_hoard_4k@icloud.com)
 
 ---
 
