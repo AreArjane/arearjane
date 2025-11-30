@@ -18,9 +18,8 @@
 ---
 
 ### 📈 Coding Activity Overview
+![Arjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arearjane&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400)
 
-![Arjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arearjane&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arearjane&layout=compact&theme=tokyonight&hide_title=true)
 
 ---
 
